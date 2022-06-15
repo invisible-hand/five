@@ -13,7 +13,7 @@ export const Header = ({title, onAdd, showAdd}) => {
 }
 
 Header.defaultProps = {
-    title: "Defaul task tracker"
+    title: "Default task tracker"
 }
 
 Header.propTypes = {
