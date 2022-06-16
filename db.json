@@ -1,3 +1,28 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "fsda",
+      "day": "fsad",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "fsadf ",
+      "day": " sadf",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "fsd",
+      "day": "gsdf",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "fds",
+      "day": "fds",
+      "reminder": false,
+      "id": 4
+    }
+  ]
 }
